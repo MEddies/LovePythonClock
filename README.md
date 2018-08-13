@@ -5,3 +5,4 @@
 可是交作業的期限就在眼前了!期末也在懸崖邊上了!  
 拍個馬屁，告訴教授：我愛Python。
 # as the picture
+![imgs](https://github.com/MEddies/LovePythonClock/blob/master/picture.png)
